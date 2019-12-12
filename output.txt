@@ -1,0 +1,93 @@
+Loan Officer created 
+Teller 0 created 
+Teller 1 created 
+Customer 0 created 
+Customer 1 created 
+Customer 2 created 
+Customer 3 created 
+Customer 4 created 
+Loan Officer begins serving Customer 1
+Teller 0 begins serving Customer 0
+Teller 1 begins serving Customer 4
+Customer 1 requests of Loan Officer to apply for a loan of $400
+Customer 0 requests of teller 0 to make a deposit of $200
+Customer 4 requests of teller 1 to make a deposit of $500
+Loan Officer approves loan for Customer 1
+Teller 1 processes deposit for Customer 4
+Teller 0 processes deposit for Customer 0
+Customer 1 gets loan from Loan Officer
+Loan Officer begins serving Customer 2
+Customer 2 requests of Loan Officer to apply for a loan of $300
+Customer 0 gets receipt from teller 0
+Customer 4 gets receipt from teller 1
+Teller 0 begins serving Customer 1
+Teller 1 begins serving Customer 4
+Customer 1 requests of teller 0 to make a deposit of $100
+Customer 4 requests of teller 1 to make a deposit of $400
+Loan Officer approves loan for Customer 2
+Teller 0 processes deposit for Customer 1
+Teller 1 processes deposit for Customer 4
+Customer 2 gets loan from Loan Officer
+Loan Officer begins serving Customer 3
+Customer 3 requests of Loan Officer to apply for a loan of $100
+Customer 1 gets receipt from teller 0
+Teller 0 begins serving Customer 1
+Customer 4 gets receipt from teller 1
+Teller 1 begins serving Customer 4
+Customer 1 requests of teller 0 to make a withdrawal of $300
+Customer 4 requests of teller 1 to make a withdrawal of $300
+Loan Officer approves loan for Customer 3
+Teller 1 processes withdrawal for Customer 4
+Teller 0 processes withdrawal for Customer 1
+Customer 3 gets loan from Loan Officer
+Loan Officer begins serving Customer 0
+Customer 0 requests of Loan Officer to apply for a loan of $200
+Customer 1 gets cash and receipt from teller 0
+Customer 4 gets cash and receipt from teller 1
+Teller 0 begins serving Customer 3
+Customer 3 requests of teller 0 to make a deposit of $200
+Customer 1 departs the bank
+Customer 4 departs the bank
+Loan Officer approves loan for Customer 0
+Teller 0 processes deposit for Customer 3
+Customer 0 gets loan from Loan Officer
+Loan Officer begins serving Customer 2
+Teller 1 begins serving Customer 0
+Customer 2 requests of Loan Officer to apply for a loan of $200
+Customer 0 requests of teller 1 to make a deposit of $500
+Customer 3 gets receipt from teller 0
+Loan Officer approves loan for Customer 2
+Teller 1 processes deposit for Customer 0
+Customer 2 gets loan from Loan Officer
+Customer 0 gets receipt from teller 1
+Loan Officer begins serving Customer 3
+Teller 0 begins serving Customer 2
+Customer 3 requests of Loan Officer to apply for a loan of $300
+Customer 0 departs the bank
+Customer 2 requests of teller 0 to make a withdrawal of $100
+Customer 0 joined by main
+Customer 1 joined by main
+Loan Officer approves loan for Customer 3
+Teller 0 processes withdrawal for Customer 2
+Customer 3 gets loan from Loan Officer
+Customer 3 departs the bank
+Customer 2 gets cash and receipt from teller 0
+Customer 2 departs the bank
+Customer 2 joined by main
+Customer 3 joined by main
+Customer 4 joined by main
+
+		   Bank Simulation Summary
+
+		Ending Balance 	Loan Amount
+
+Customer 0	1700 		 200
+Customer 1	800 		 400
+Customer 2	900 		 500
+Customer 3	1200 		 400
+Customer 4	1600 		 0
+
+Totals		6200		 1500
+
+
+End of simulation!
